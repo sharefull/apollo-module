@@ -11998,9 +11998,9 @@ vue-apollo@^3.0.2:
     serialize-javascript "^2.1.0"
     throttle-debounce "^2.1.0"
 
-"vue-cli-plugin-apollo@git+ssh://git@github.com/sharefull/vue-cli-plugin-apollo.git#v0.21.3a":
+"vue-cli-plugin-apollo@git+ssh://git@github.com/sharefull/vue-cli-plugin-apollo.git#v0.21.3b":
   version "0.21.3"
-  resolved "git+ssh://git@github.com/sharefull/vue-cli-plugin-apollo.git#0ca6d5d0733b6a73ef0dafc90b00c21eb71950f4"
+  resolved "git+ssh://git@github.com/sharefull/vue-cli-plugin-apollo.git#4730c94047b72775d9e80106aeb63fa3c3288877"
   dependencies:
     apollo "^2.20.0"
     apollo-cache-inmemory "^1.6.3"
